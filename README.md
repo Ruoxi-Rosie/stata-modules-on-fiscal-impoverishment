@@ -1,4 +1,4 @@
-# stata-modules-on-fiscal-impoverishment
+# Stata modules on fiscal impoverishment
 ceqfi_taxtransfer and ceqfi_by are two exercise commands I wrote to provide additional information on fiscal impoverishment and fiscal gains to the poor (Higgins and Lustig 2016), modified from Stata ceqfi command in the ceq Stata package (Higgins 2016).
 
 

@@ -3,10 +3,11 @@
 
 ** VERSION AND NOTES (changes between versions described under CHANGES)
 
-*! v1.0 nov202016 
+*! v1.1 may032016 
 *! (beta version)
 
 ** CHANGES
+** 05-03-2016 Testing pull request; added Rosie's name and email
 
 ** NOTES
 

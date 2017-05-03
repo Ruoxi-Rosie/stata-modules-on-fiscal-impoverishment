@@ -1,4 +1,5 @@
 ** FISCAL IMPOVERISHMENT AND GAINS OF THE POOR FOR PARTICULAR TAXES OR TRANSFERES A USER SUPPLIES
+** Rosie Li, rli4@tulane.edu
 
 ** VERSION AND NOTES (changes between versions described under CHANGES)
 
